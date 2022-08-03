@@ -12,5 +12,5 @@ The jupyter notebook contains an end-to-end strategy to predict the expression o
 
 Alternatively, you can directly use a helper function (make_prediction) to predict the test sequences with the sub_model.11.h5 model (used for the competition) or any other model created during training.
 
-### Read more about this model <a href="Report.docx" >here </a>
+### Read more about this model <a href="Report_def.docx" >here </a>
 
